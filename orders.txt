@@ -1,0 +1,49 @@
+Order ID: ODR#000001
+Customer ID: 0775337458
+Size: xs
+Quantity: 3
+Amount: 1800.0
+Status: DELIVERED
+--------------------------------------------------------
+Order ID: ODR#000004
+Customer ID: 0887616552
+Size: l
+Quantity: 3
+Amount: 3000.0
+Status: PROCESSING
+--------------------------------------------------------
+Order ID: ODR#000005
+Customer ID: 0775337548
+Size: m
+Quantity: 2
+Amount: 1800.0
+Status: PROCESSING
+--------------------------------------------------------
+Order ID: ODR#000006
+Customer ID: 0775337548
+Size: xxl
+Quantity: 3
+Amount: 3600.0
+Status: PROCESSING
+--------------------------------------------------------
+Order ID: ODR#000007
+Customer ID: 0775337456
+Size: xs
+Quantity: 6
+Amount: 3600.0
+Status: DELIVERED
+--------------------------------------------------------
+Order ID: ODR#000008
+Customer ID: 0775337548
+Size: s
+Quantity: 4
+Amount: 3200.0
+Status: PROCESSING
+--------------------------------------------------------
+Order ID: ODR#000009
+Customer ID: 0755263929
+Size: m
+Quantity: 3
+Amount: 2700.0
+Status: PROCESSING
+--------------------------------------------------------
